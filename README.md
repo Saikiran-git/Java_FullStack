@@ -42,15 +42,15 @@ What You Will Learn
 -------------------
   1. Java Basics: Understanding the syntax, variables, data types, and control statements to control the flow of the application.
   2. OOP Concepts: Diving deep into object-oriented principles, including:
-     -> Objects and Classes: The building blocks of OOP, enabling the creation of modular and reusable code.
-     -> Inheritance: Leveraging code reuse and establishing a hierarchical classification.
-     -> Abstraction: Hiding complex implementations behind simplified interfaces.
-     -> Polymorphism: Enabling objects to be treated as instances of their parent class rather than their actual class.
-     -> Encapsulation: Protecting the internal state of objects and only exposing what is necessary.
-     -> Constructors and Keywords (this, final, super, static): Understanding their roles in class instantiation, inheritance, and static context.
-     -> Abstract Classes and Interfaces: Defining contracts for subclasses and supporting multiple inheritance.
-     -> Overloading and Overriding: Customizing class methods to suit the needs of your application.
-     -> Exception Handling: Learning to anticipate and manage runtime errors for a robust application.
+  3. Objects and Classes: The building blocks of OOP, enabling the creation of modular and reusable code.
+  4. Inheritance: Leveraging code reuse and establishing a hierarchical classification.
+  5. Abstraction: Hiding complex implementations behind simplified interfaces.
+  6. Polymorphism: Enabling objects to be treated as instances of their parent class rather than their actual class.
+  7. Encapsulation: Protecting the internal state of objects and only exposing what is necessary.
+  8. Constructors and Keywords (this, final, super, static): Understanding their roles in class instantiation, inheritance, and static context.
+  9. Abstract Classes and Interfaces: Defining contracts for subclasses and supporting multiple inheritance.
+  10. Overloading and Overriding: Customizing class methods to suit the needs of your application.
+  11. Exception Handling: Learning to anticipate and manage runtime errors for a robust application.
 
 Project Overview: To-Do Manager
 -------------------------------
