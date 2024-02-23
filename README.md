@@ -12,9 +12,9 @@ Development Environment and Tools
 
   Eclipse IDE
   -----------
-    Version: [Specify the version you used, e.g., Eclipse Photon, Eclipse 2020-06]
-    Project Setup: Java Project
-    Code Management: Utilized for writing, debugging, and testing the Java code. Eclipse's powerful features such as code completion, refactoring, and syntax highlighting were instrumental in the development        process.
+    * Version: [Specify the version you used, e.g., Eclipse Photon, Eclipse 2020-06]
+    * Project Setup: Java Project
+    * Code Management: Utilized for writing, debugging, and testing the Java code. Eclipse's powerful features such as code completion, refactoring, and syntax highlighting were instrumental in the development        process.
 
   Java Development Kit (JDK)
   --------------------------
@@ -23,44 +23,44 @@ Development Environment and Tools
 
   Git and GitHub
   --------------
-    Version Control: Git was used for version control, enabling efficient tracking of changes and collaboration.
-    GitHub: The codebase is hosted on GitHub, facilitating easy access, collaboration, and distribution. GitHub's integration with Eclipse through the EGit plugin streamlined the process of pushing code from   Eclipse to the GitHub repository.
+    1. Version Control: Git was used for version control, enabling efficient tracking of changes and collaboration.
+    2. GitHub: The codebase is hosted on GitHub, facilitating easy access, collaboration, and distribution. GitHub's integration with Eclipse through the EGit plugin streamlined the process of pushing code from   Eclipse to the GitHub repository.
   How to Set Up the Development Environment
   -----------------------------------------
-    Install Eclipse IDE:
+    1. Install Eclipse IDE:
       Download and install Eclipse from the official website. Choose the version compatible with your JDK.
-    Install JDK:
+    2. Install JDK:
       Ensure that you have the JDK installed on your system. Download it from Oracle's official site or adopt OpenJDK.
-    Clone the Project:
+    3. Clone the Project:
       Use Git to clone the project repository to your local machine.
-    Import the Project in Eclipse:
+    4. Import the Project in Eclipse:
       Open Eclipse and select `File` > `Import` > `General` > `Existing Projects into Workspace`. Navigate to the directory where you cloned the project and import it.
-    Configure JDK:
+    5. Configure JDK:
       Ensure the project is using the correct JDK version by right-clicking on the project > Properties > Java Build Path > Libraries and setting the JDK version.
 
 What You Will Learn
 -------------------
-  Java Basics: Understanding the syntax, variables, data types, and control statements to control the flow of the application.
-  OOP Concepts: Diving deep into object-oriented principles, including:
-    Objects and Classes: The building blocks of OOP, enabling the creation of modular and reusable code.
-    Inheritance: Leveraging code reuse and establishing a hierarchical classification.
-    Abstraction: Hiding complex implementations behind simplified interfaces.
-    Polymorphism: Enabling objects to be treated as instances of their parent class rather than their actual class.
-    Encapsulation: Protecting the internal state of objects and only exposing what is necessary.
-    Constructors and Keywords (this, final, super, static): Understanding their roles in class instantiation, inheritance, and static context.
-    Abstract Classes and Interfaces: Defining contracts for subclasses and supporting multiple inheritance.
-    Overloading and Overriding: Customizing class methods to suit the needs of your application.
-    Exception Handling: Learning to anticipate and manage runtime errors for a robust application.
+  1. Java Basics: Understanding the syntax, variables, data types, and control statements to control the flow of the application.
+  2. OOP Concepts: Diving deep into object-oriented principles, including:
+    a. Objects and Classes: The building blocks of OOP, enabling the creation of modular and reusable code.
+    b. Inheritance: Leveraging code reuse and establishing a hierarchical classification.
+    c. Abstraction: Hiding complex implementations behind simplified interfaces.
+    d. Polymorphism: Enabling objects to be treated as instances of their parent class rather than their actual class.
+    e. Encapsulation: Protecting the internal state of objects and only exposing what is necessary.
+    f. Constructors and Keywords (this, final, super, static): Understanding their roles in class instantiation, inheritance, and static context.
+    g. Abstract Classes and Interfaces: Defining contracts for subclasses and supporting multiple inheritance.
+    h. Overloading and Overriding: Customizing class methods to suit the needs of your application.
+    i. Exception Handling: Learning to anticipate and manage runtime errors for a robust application.
 
 Project Overview: To-Do Manager
 -------------------------------
 The To-Do Manager project is a practical application of the Java concepts covered in this repository. It illustrates how to:
 
-  Model a To-Do Item: Using classes to represent tasks with properties such as title, description, due date, and status.
-  Manage Tasks: Employing collections to handle and store multiple to-do items efficiently.
-  Utilize Control Statements: For task operations like adding, removing, and updating tasks.
-  Apply OOP Principles: To organize the codebase for clarity, reusability, and scalability. Each aspect of the project, from task management to UI, demonstrates a specific OOP concept in action.
-  Handle Exceptions: Ensuring the application gracefully handles unexpected situations, like input mismatches or file access issues.
+  1. Model a To-Do Item: Using classes to represent tasks with properties such as title, description, due date, and status.
+  2. Manage Tasks: Employing collections to handle and store multiple to-do items efficiently.
+  3. Utilize Control Statements: For task operations like adding, removing, and updating tasks.
+  4. Apply OOP Principles: To organize the codebase for clarity, reusability, and scalability. Each aspect of the project, from task management to UI, demonstrates a specific OOP concept in action.
+  5. Handle Exceptions: Ensuring the application gracefully handles unexpected situations, like input mismatches or file access issues.
 
 Contribution
 ------------
