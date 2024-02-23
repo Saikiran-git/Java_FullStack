@@ -1,5 +1,5 @@
-Java Concepts: A To-Do Manager Project
-----------------------------------------------------------
+Java Concepts using Project - A To-Do Manager Project
+--------------------------------------
 
 About
 -----
