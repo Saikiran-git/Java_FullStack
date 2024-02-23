@@ -1,4 +1,4 @@
-Java Basics to Exception Handling: A To-Do Manager Project
+Java Concepts: A To-Do Manager Project
 ----------------------------------------------------------
 
 About
